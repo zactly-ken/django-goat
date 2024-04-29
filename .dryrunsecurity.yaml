@@ -1,6 +1,6 @@
 sensitiveCodepaths:
   # Files only allowed authors can modify
-  - './README.md'
+  - 'requirements.txt'
   # - 'controllers/**/*.js'
 allowedAuthors:
   usernames:
