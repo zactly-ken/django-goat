@@ -1,6 +1,6 @@
 sensitiveCodepaths:
   # Files only allowed authors can modify
-   - 'settings.py'
+   - 'pygoat/settings.py'
   # - 'controllers/**/*.js'
 allowedAuthors:
   usernames:
