@@ -1,11 +1,11 @@
 sensitiveCodepaths:
   # Files only allowed authors can modify
-  # - 'app.js'
+  - 'README.md'
   # - 'controllers/**/*.js'
 allowedAuthors:
   usernames:
     # GitHub username
-    # - 'john-doe'
+    - 'cktricky'
 notificationList:
   # GitHub username or team name
   # - '@DryRunSec/security'
